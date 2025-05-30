@@ -30,7 +30,7 @@ js/
 
 1. Clone este repositório:
    ```sh
-   git clone <url-do-repositorio>
+   git clone <https://github.com/Leal86/museu-nacional-explorer>
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
